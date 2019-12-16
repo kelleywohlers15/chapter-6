@@ -1,0 +1,7 @@
+C:\Users\kw145243\Desktop\C-Sharp-Projects\chapter 6\TemperatureList\TemperatureList\obj\Debug\TemperatureList.csprojAssemblyReference.cache
+C:\Users\kw145243\Desktop\C-Sharp-Projects\chapter 6\TemperatureList\TemperatureList\obj\Debug\TemperatureList.csproj.CoreCompileInputs.cache
+C:\Users\kw145243\Desktop\C-Sharp-Projects\chapter 6\TemperatureList\TemperatureList\bin\Debug\TemperatureList.exe.config
+C:\Users\kw145243\Desktop\C-Sharp-Projects\chapter 6\TemperatureList\TemperatureList\bin\Debug\TemperatureList.exe
+C:\Users\kw145243\Desktop\C-Sharp-Projects\chapter 6\TemperatureList\TemperatureList\bin\Debug\TemperatureList.pdb
+C:\Users\kw145243\Desktop\C-Sharp-Projects\chapter 6\TemperatureList\TemperatureList\obj\Debug\TemperatureList.exe
+C:\Users\kw145243\Desktop\C-Sharp-Projects\chapter 6\TemperatureList\TemperatureList\obj\Debug\TemperatureList.pdb

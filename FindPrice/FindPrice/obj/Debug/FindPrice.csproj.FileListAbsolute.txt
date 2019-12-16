@@ -1,0 +1,6 @@
+C:\Users\kw145243\Desktop\C-Sharp-Projects\chapter 6\FindPrice\FindPrice\obj\Debug\FindPrice.csproj.CoreCompileInputs.cache
+C:\Users\kw145243\Desktop\C-Sharp-Projects\chapter 6\FindPrice\FindPrice\bin\Debug\FindPrice.exe.config
+C:\Users\kw145243\Desktop\C-Sharp-Projects\chapter 6\FindPrice\FindPrice\bin\Debug\FindPrice.exe
+C:\Users\kw145243\Desktop\C-Sharp-Projects\chapter 6\FindPrice\FindPrice\bin\Debug\FindPrice.pdb
+C:\Users\kw145243\Desktop\C-Sharp-Projects\chapter 6\FindPrice\FindPrice\obj\Debug\FindPrice.exe
+C:\Users\kw145243\Desktop\C-Sharp-Projects\chapter 6\FindPrice\FindPrice\obj\Debug\FindPrice.pdb

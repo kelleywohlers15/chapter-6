@@ -1,0 +1,6 @@
+C:\Users\kw145243\Desktop\C-Sharp-Projects\chapter 6\ArraySort\ArraySort\bin\Debug\ArraySort.exe.config
+C:\Users\kw145243\Desktop\C-Sharp-Projects\chapter 6\ArraySort\ArraySort\bin\Debug\ArraySort.exe
+C:\Users\kw145243\Desktop\C-Sharp-Projects\chapter 6\ArraySort\ArraySort\bin\Debug\ArraySort.pdb
+C:\Users\kw145243\Desktop\C-Sharp-Projects\chapter 6\ArraySort\ArraySort\obj\Debug\ArraySort.csproj.CoreCompileInputs.cache
+C:\Users\kw145243\Desktop\C-Sharp-Projects\chapter 6\ArraySort\ArraySort\obj\Debug\ArraySort.exe
+C:\Users\kw145243\Desktop\C-Sharp-Projects\chapter 6\ArraySort\ArraySort\obj\Debug\ArraySort.pdb

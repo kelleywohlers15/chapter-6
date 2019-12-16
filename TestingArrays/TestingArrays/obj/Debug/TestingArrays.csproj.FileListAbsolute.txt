@@ -1,0 +1,7 @@
+C:\Users\kw145243\Desktop\C-Sharp-Projects\chapter 6\TestingArrays\TestingArrays\bin\Debug\TestingArrays.exe.config
+C:\Users\kw145243\Desktop\C-Sharp-Projects\chapter 6\TestingArrays\TestingArrays\bin\Debug\TestingArrays.exe
+C:\Users\kw145243\Desktop\C-Sharp-Projects\chapter 6\TestingArrays\TestingArrays\bin\Debug\TestingArrays.pdb
+C:\Users\kw145243\Desktop\C-Sharp-Projects\chapter 6\TestingArrays\TestingArrays\obj\Debug\TestingArrays.csprojAssemblyReference.cache
+C:\Users\kw145243\Desktop\C-Sharp-Projects\chapter 6\TestingArrays\TestingArrays\obj\Debug\TestingArrays.csproj.CoreCompileInputs.cache
+C:\Users\kw145243\Desktop\C-Sharp-Projects\chapter 6\TestingArrays\TestingArrays\obj\Debug\TestingArrays.exe
+C:\Users\kw145243\Desktop\C-Sharp-Projects\chapter 6\TestingArrays\TestingArrays\obj\Debug\TestingArrays.pdb
